@@ -1,0 +1,26 @@
+#space{
+    display: flex;
+}
+
+#btn{
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    border: 2px solid black;
+    align-items: center;
+    cursor: pointer;
+}
+
+#second-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#sec-head{
+    font-size: 32px;
+    margin-bottom: 20px;
+    background-color: gray;
+    justify-content: center;
+}
